@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I work mainly with PHP and Laravel, but also use Vue.js, JavaScript, and SQL.<br>🚀 I enjoy building real-world apps that solve problems and help people.<br>💬 Ask me about PHP, Laravel, Vue.js, RESTful APIs, or SQL.<br>🌱 I’m studying a Master’s in AI and learning more about cloud tools.<br>⚡ I like working with good teams and writing clean, maintainable code.
+💡 I work mainly with PHP and Laravel, but also use Vue.js, JavaScript, and SQL.<br>🚀 I enjoy building real-world apps that solve problems and help people.<br>💬 Ask me about PHP, Laravel, Vue.js, RESTful APIs, or SQL.<br>🌱 I’m learning about AI.
 
 
 ## 🌐 Socials:
